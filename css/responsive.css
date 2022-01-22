@@ -1,0 +1,23 @@
+.nav-list{
+    flex-direction: column;
+}
+.navbar{
+    flex-direction: column;
+    transition: all 0.7s ease-out;
+    height: 447px;
+}
+.rightNav{
+    text-align: center;
+}
+#search{
+    width: 100%;
+}
+.burger{
+    display: block;
+}
+.h-nav-resp{
+    height: 72px;
+}
+.v-class{
+    opacity: 0;
+}
